@@ -1,2 +1,2 @@
 # Faculdade-University
-Projetos e atividades da faculdade
+Repositório destinado à meus projetos e atividades da faculdade.
